@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+/.husky/
+
+# build
+/build
+
+# vscode settings
+/.vscode/
